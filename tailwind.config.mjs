@@ -9,5 +9,14 @@ export default {
   theme: {
     extend: rapidTailwindTheme({}),
   },
-  plugins: [rapidPlugin({})],
+  plugins: [
+    rapidPlugin({
+      global: {
+        // global styles go here
+        body: {
+          backgroundColor: "#ffffff",
+        },
+      },
+    }),
+  ],
 }
