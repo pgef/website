@@ -1,7 +1,7 @@
 import React from "react"
 
 const ReactComponent = () => {
-  return <div>ReactComponent</div>
+  return <div>Hello world</div>
 }
 
 export default ReactComponent
