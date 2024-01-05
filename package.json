@@ -13,6 +13,7 @@
     "@astrojs/check": "^0.3.4",
     "@astrojs/react": "^3.0.9",
     "@astrojs/tailwind": "^5.1.0",
+    "@rapid-web/ui": "^0.2.2",
     "astro": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
